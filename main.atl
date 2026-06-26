@@ -11,3 +11,6 @@ let fn = Func(Int i : Int) {
 let do = Func(Float f : String) {
     return f as String
 }
+
+print(fn(23))
+print(do(12.2))
