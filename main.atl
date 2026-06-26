@@ -15,3 +15,4 @@ let do = Func(Float f : String) {
 print(fn(23))
 print(do(12.2))
 # are you sure?
+# Yeah, I am...
