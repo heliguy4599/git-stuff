@@ -3,3 +3,11 @@ print("Hello, World...") # unsure
 print("Another line")
 let x = 42
 print(x / 222) # haha penis
+
+let fn = Func(Int i : Int) {
+    return -i
+}
+
+let do = Func(Float f : String) {
+    return f as String
+}
