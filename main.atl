@@ -1,2 +1,5 @@
 :: main
-print("Hello, World!")
+print("Hello, World...") # unsure
+print("Another line")
+let x = 42
+print(x / 222) # haha penis
